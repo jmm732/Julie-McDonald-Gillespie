@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Julie McDonald-Gillespie
+logo: "/images/Profile.jpg?raw=true"
+description: > 
+  My name is Julie McDonald-Gillespie. I am a Environmental Scientist with Burns & McDonnell.
   <br><br>
-  Second description 
+  I have an A.S. in Environmental Science, a B.S. in Biogosciences, and am working to complete my M.S. in Geospatial Technology. 
+  I've worked with ArcGIS Pro, PostGIS, Python, Bash, R Studio, and Jupyter Notebook.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/julie-mcdonald-gillespie-3895b1199</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
