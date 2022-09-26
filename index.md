@@ -2,10 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Publication
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Airborne Lead  Pb  From Abandoned Mine Waste in Northeastern Oklahoma  USA
+![GeoHealth](https://user-images.githubusercontent.com/99560263/192344650-142fa84f-332c-4601-95f3-bd2d071bb869.jpg)
+https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GH000273
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
