@@ -13,7 +13,9 @@ https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GH000273
 [![Maryland Census Places](images/ArcGIS - Maryland Designated Census Places.pdf)](https://arcg.is/0KTWvTLinks to an external site.)
 
 
+### Apps
 
+https://juliegillespie03.users.earthengine.app/view/split-panel-app
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
