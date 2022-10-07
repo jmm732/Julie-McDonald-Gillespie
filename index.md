@@ -10,7 +10,7 @@ https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GH000273
 
 
 ### Maps
-[![Maryland Census Places](images/ArcGIS - Maryland Designated Census Places.pdf)](https://arcg.is/0KTWvTLinks to an external site.)
+[![Maryland Census Places](https://github.com/jmm732/Julie-McDonald-Gillespie.github.io/blob/ea4749d5ab37e46b2e10c11414508a96d3d3c7c2/images/Maryland_Designated_Census_Places.jpg)](https://arcg.is/0KTWvTLinks to an external site.)
 
 
 ### Apps
